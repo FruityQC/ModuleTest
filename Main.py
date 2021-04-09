@@ -1,4 +1,7 @@
 import modulet
+from time import sleep
 
 
-modulet.say("test")
+a = input(":")
+
+modulet.say(a)
